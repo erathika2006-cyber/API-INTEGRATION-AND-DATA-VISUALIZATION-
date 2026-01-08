@@ -22,3 +22,5 @@ Once the data is fetched the next step is data visualization. Data visualization
 
 OUTPUT:
 
+<img width="562" height="455" alt="Image" src="https://github.com/user-attachments/assets/51ba3e76-3078-4030-8c43-2b4116cee58f" />
+
